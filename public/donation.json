@@ -1,0 +1,135 @@
+[
+    {
+      "id": "a0dfb93e",
+      "category": "Food",
+      "title": "Help Us Feed the Hungry",
+      "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
+      "category_bg_color": "#F29682",
+      "card_bg_color": "#F8D7A9",
+      "text_color": "#603C36",
+      "description": "Your contribution will provide meals to those in need. Together, we can fight hunger in our community.",
+      "price": 25
+    },
+    {
+      "id": "8fda2b17",
+      "category": "Food",
+      "title": "Lunch Program in School",
+      "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
+      "category_bg_color": "#F29682",
+      "card_bg_color": "#F8D7A9",
+      "text_color": "#603C36",
+      "description": "Support our school lunch program to ensure every child has access to a nutritious meal during their school day.",
+      "price": 20
+    },
+    {
+      "id": "5b83b682",
+      "category": "Health",
+      "title": "Medical Supplies for Local Clinics",
+      "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
+      "category_bg_color": "#67C7E2",
+      "card_bg_color": "#A2E0F3",
+      "text_color": "#173B64",
+      "description": "Donate towards the purchase of medical supplies to aid local clinics in providing essential healthcare services.",
+      "price": 50
+    },
+    {
+      "id": "71d13d42",
+      "category": "Health",
+      "title": "Support Mental Health Awareness",
+      "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
+      "category_bg_color": "#67C7E2",
+      "card_bg_color": "#A2E0F3",
+      "text_color": "#173B64",
+      "description": "Help raise awareness and support programs focused on mental health and well-being in our community.",
+      "price": 30
+    },
+    {
+      "id": "fabc2e0e",
+      "category": "Education",
+      "title": "Scholarships for Students",
+      "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Contribute to our scholarship fund to make quality education accessible to underprivileged students.",
+      "price": 40
+    },
+    {
+      "id": "a4c157eb",
+      "category": "Education",
+      "title": "Library Renovation Project",
+      "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Support the renovation and expansion of local libraries to provide better learning environments.",
+      "price": 35
+    },
+    {
+      "id": "e5e6dd3b",
+      "category": "Clothing",
+      "title": "Warm Clothes for Winter",
+      "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
+      "category_bg_color": "#9B9B9B",
+      "card_bg_color": "#D1D1D1",
+      "text_color": "#2A2A2A",
+      "description": "Help us distribute warm clothing to those in need during the cold winter months.",
+      "price": 20
+    },
+    {
+      "id": "c19d833e",
+      "category": "Clothing",
+      "title": "School Uniforms for Children",
+      "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
+      "category_bg_color": "#9B9B9B",
+      "card_bg_color": "#D1D1D1",
+      "text_color": "#2A2A2A",
+      "description": "Provide school uniforms to children who lack the necessary clothing to attend school.",
+      "price": 25
+    },
+    {
+      "id": "d758ed0a",
+      "category": "Food",
+      "title": "Holiday Meal Donations",
+      "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
+      "category_bg_color": "#F29682",
+      "card_bg_color": "#F8D7A9",
+      "text_color": "#603C36",
+      "description": "Spread holiday cheer by donating meals to families in need during the festive season.",
+      "price": 30
+    },
+    {
+      "id": "5e5654b0",
+      "category": "Health",
+      "title": "Medical Research Advancements",
+      "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
+      "category_bg_color": "#67C7E2",
+      "card_bg_color": "#A2E0F3",
+      "text_color": "#173B64",
+      "description": "Support groundbreaking medical research projects aimed at improving healthcare outcomes.",
+      "price": 60
+    },
+    {
+      "id": "cf9a02b8",
+      "category": "Education",
+      "title": "STEM Education for All",
+      "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Promote STEM (Science, Technology, Engineering, and Mathematics) education for all students.",
+      "price": 45
+    },
+    {
+      "id": "b2c60750",
+      "category": "Clothing",
+      "title": "Blankets for the Homeless",
+      "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
+      "category_bg_color": "#9B9B9B",
+      "card_bg_color": "#D1D1D1",
+      "text_color": "#2A2A2A",
+      "description": "Provide warm blankets to homeless individuals to help them stay comfortable during the cold nights.",
+      "price": 15
+    }
+  ]
+  
