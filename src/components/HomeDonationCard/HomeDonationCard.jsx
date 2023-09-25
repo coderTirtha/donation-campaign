@@ -5,7 +5,7 @@ const HomeDonationCard = ({ donation }) => {
     return (
         <div>
             <Link to={`/donationDetails/${id}`}>
-                <div className="card shadow-lg cursor-pointer flex flex-col justify-between" style={{ backgroundColor: `${card_bg_color}` }}>
+                <div className="card shadow-sm cursor-pointer flex flex-col justify-between" style={{ backgroundColor: `${card_bg_color}` }}>
                     <figure><img src={image} alt="food" className="w-full h-[150px] object-cover" /></figure>
                     <div className="p-4 flex flex-col justify-between space-y-2">
                         <div>

@@ -1,135 +1,134 @@
 [
-    {
-      "id": "a0dfb93e",
-      "category": "Food",
-      "title": "Help Us Feed the Hungry",
-      "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
-      "category_bg_color": "#F29682",
-      "card_bg_color": "#F8D7A9",
-      "text_color": "#603C36",
-      "description": "Your contribution will provide meals to those in need. Together, we can fight hunger in our community.",
-      "price": 25
-    },
-    {
-      "id": "8fda2b17",
-      "category": "Food",
-      "title": "Lunch Program in School",
-      "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
-      "category_bg_color": "#F29682",
-      "card_bg_color": "#F8D7A9",
-      "text_color": "#603C36",
-      "description": "Support our school lunch program to ensure every child has access to a nutritious meal during their school day.",
-      "price": 20
-    },
-    {
-      "id": "5b83b682",
-      "category": "Health",
-      "title": "Medical Supplies for Local Clinics",
-      "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
-      "category_bg_color": "#67C7E2",
-      "card_bg_color": "#A2E0F3",
-      "text_color": "#173B64",
-      "description": "Donate towards the purchase of medical supplies to aid local clinics in providing essential healthcare services.",
-      "price": 50
-    },
-    {
-      "id": "71d13d42",
-      "category": "Health",
-      "title": "Support Mental Health Awareness",
-      "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
-      "category_bg_color": "#67C7E2",
-      "card_bg_color": "#A2E0F3",
-      "text_color": "#173B64",
-      "description": "Help raise awareness and support programs focused on mental health and well-being in our community.",
-      "price": 30
-    },
-    {
-      "id": "fabc2e0e",
-      "category": "Education",
-      "title": "Scholarships for Students",
-      "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
-      "category_bg_color": "#FF444A33",
-      "card_bg_color": "#FF444A26",
-      "text_color": "#FF444A",
-      "description": "Contribute to our scholarship fund to make quality education accessible to underprivileged students.",
-      "price": 40
-    },
-    {
-      "id": "a4c157eb",
-      "category": "Education",
-      "title": "Library Renovation Project",
-      "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
-      "category_bg_color": "#FF444A33",
-      "card_bg_color": "#FF444A26",
-      "text_color": "#FF444A",
-      "description": "Support the renovation and expansion of local libraries to provide better learning environments.",
-      "price": 35
-    },
-    {
-      "id": "e5e6dd3b",
-      "category": "Clothing",
-      "title": "Warm Clothes for Winter",
-      "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
-      "category_bg_color": "#9B9B9B",
-      "card_bg_color": "#D1D1D1",
-      "text_color": "#2A2A2A",
-      "description": "Help us distribute warm clothing to those in need during the cold winter months.",
-      "price": 20
-    },
-    {
-      "id": "c19d833e",
-      "category": "Clothing",
-      "title": "School Uniforms for Children",
-      "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
-      "category_bg_color": "#9B9B9B",
-      "card_bg_color": "#D1D1D1",
-      "text_color": "#2A2A2A",
-      "description": "Provide school uniforms to children who lack the necessary clothing to attend school.",
-      "price": 25
-    },
-    {
-      "id": "d758ed0a",
-      "category": "Food",
-      "title": "Holiday Meal Donations",
-      "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
-      "category_bg_color": "#F29682",
-      "card_bg_color": "#F8D7A9",
-      "text_color": "#603C36",
-      "description": "Spread holiday cheer by donating meals to families in need during the festive season.",
-      "price": 30
-    },
-    {
-      "id": "5e5654b0",
-      "category": "Health",
-      "title": "Medical Research Advancements",
-      "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
-      "category_bg_color": "#67C7E2",
-      "card_bg_color": "#A2E0F3",
-      "text_color": "#173B64",
-      "description": "Support groundbreaking medical research projects aimed at improving healthcare outcomes.",
-      "price": 60
-    },
-    {
-      "id": "cf9a02b8",
-      "category": "Education",
-      "title": "STEM Education for All",
-      "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
-      "category_bg_color": "#FF444A33",
-      "card_bg_color": "#FF444A26",
-      "text_color": "#FF444A",
-      "description": "Promote STEM (Science, Technology, Engineering, and Mathematics) education for all students.",
-      "price": 45
-    },
-    {
-      "id": "b2c60750",
-      "category": "Clothing",
-      "title": "Blankets for the Homeless",
-      "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
-      "category_bg_color": "#9B9B9B",
-      "card_bg_color": "#D1D1D1",
-      "text_color": "#2A2A2A",
-      "description": "Provide warm blankets to homeless individuals to help them stay comfortable during the cold nights.",
-      "price": 15
-    }
-  ]
-  
+  {
+    "id": "a0dfb93e",
+    "category": "Food",
+    "title": "Help Us Feed the Hungry",
+    "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_color": "#F87147",
+    "description": "Your contribution to this campaign will make a significant impact on our mission to combat hunger in our community. With your generous support, we can provide nutritious meals to those in need, ensuring that no one goes to bed hungry. Together, we can make a difference in the lives of individuals and families facing food insecurity. Join us in the fight against hunger today. Hunger knows no boundaries, affecting individuals from all walks of life. By donating to this campaign, you're not just providing food; you're offering hope and relief to those who struggle to put food on their tables. Your $25 donation can help us continue our efforts to alleviate hunger and build a stronger, more compassionate community.",
+    "price": 25
+  },
+  {
+    "id": "8fda2b17",
+    "category": "Food",
+    "title": "Lunch Program in School",
+    "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_color": "#F87147",
+    "description": "Our school lunch program is dedicated to ensuring that every child has access to a nutritious meal during their school day. By supporting this campaign, you're contributing to the educational success and overall well-being of students in our community. We believe that no child should face hunger while trying to learn and grow. Your $20 donation can help us sustain and expand this vital program, reaching even more students and providing them with the nourishment they need to thrive academically. Join us in making a lasting impact on the lives of young learners and fostering a brighter future for our community.",
+    "price": 20
+  },
+  {
+    "id": "5b83b682",
+    "category": "Health",
+    "title": "Medical Supplies for Local Clinics",
+    "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "Donate towards the purchase of medical supplies to aid local clinics in providing essential healthcare services. Your donation to this campaign goes a long way in improving healthcare services in our local clinics. By contributing to the purchase of medical supplies, you're directly aiding healthcare professionals in providing essential care to our community members. Your support ensures that medical facilities have the resources they need to save lives. Healthcare is a fundamental right, and your $50 donation plays a crucial role in upholding this right for all. Your generosity helps maintain a healthier and more resilient community. Join us in supporting our local clinics and making quality healthcare accessible to all.",
+    "price": 50
+  },
+  {
+    "id": "71d13d42",
+    "category": "Health",
+    "title": "Support Mental Health Awareness",
+    "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "Help raise awareness and support programs focused on mental health and well-being in our community. Mental health is a critical aspect of overall well-being, and your donation can help us raise awareness and support programs that focus on mental health in our community. By contributing to this campaign, you're promoting understanding, empathy, and resources for those facing mental health challenges. Your $30 donation empowers us to continue advocating for mental health awareness and providing valuable resources to those in need. Together, we can break down stigma and create a more compassionate and supportive environment for everyone's mental health.",
+    "price": 30
+  },
+  {
+    "id": "fabc2e0e",
+    "category": "Education",
+    "title": "Scholarships for Students",
+    "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_color": "#FF444A",
+    "description": "Contribute to our scholarship fund to make quality education accessible to underprivileged students. Education is a pathway to opportunity, and your contribution to this scholarship fund makes quality education accessible to underprivileged students. By supporting this campaign, you're investing in the future of young learners and helping them achieve their dreams. Your $40 donation goes directly toward scholarships that can change the course of a student's life. It's an investment not only in their education but also in the betterment of our community. Join us in empowering the next generation with the gift of education.",
+    "price": 40
+  },
+  {
+    "id": "a4c157eb",
+    "category": "Education",
+    "title": "Library Renovation Project",
+    "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_color": "#FF444A",
+    "description": "Support the renovation and expansion of local libraries to provide better learning environments. Libraries are hubs of learning and discovery, and your support for this campaign ensures that local libraries provide better learning environments for all. By contributing, you're helping to create spaces where individuals can access knowledge and resources to improve their lives. Your $35 donation helps us renovate and expand libraries, making them more inviting and accessible to the community. Join us in promoting literacy, education, and a lifelong love of learning.",
+    "price": 35
+  },
+  {
+    "id": "e5e6dd3b",
+    "category": "Clothing",
+    "title": "Warm Clothes for Winter",
+    "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
+    "category_bg_color": "#79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_color": "#79C23F",
+    "description": "Help us distribute warm clothing to those in need during the cold winter months. Winter can be harsh, especially for those in need. Your donation to this campaign enables us to distribute warm clothing to individuals facing the cold winter months. By contributing, you're providing essential warmth and comfort to those who need it most. Your $20 donation can make a significant difference in helping someone stay warm during the winter season. Join us in spreading warmth and compassion throughout our community.",
+    "price": 20
+  },
+  {
+    "id": "c19d833e",
+    "category": "Clothing",
+    "title": "School Uniforms for Children",
+    "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
+    "category_bg_color": "#79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_color": "#79C23F",
+    "description": "Provide school uniforms to children who lack the necessary clothing to attend school. Every child deserves the opportunity to attend school comfortably and confidently. By supporting this campaign, you're helping provide school uniforms to children who lack the necessary clothing to attend school. Your donation ensures that children can focus on their education without the worry of inadequate clothing. Your $25 donation can help us provide uniforms to multiple children, setting them on a path to success. Join us in empowering young students with the gift of school uniforms and educational opportunities.",
+    "price": 25
+  },
+  {
+    "id": "d758ed0a",
+    "category": "Food",
+    "title": "Holiday Meal Donations",
+    "image": "https://imageupload.io/ib/5MhixMalRqx1Hqn_1695631254.png",
+    "category_bg_color": "#F8714733",
+    "card_bg_color": "#F8714726",
+    "text_color": "#F87147",
+    "description": "The holiday season is a time for joy and togetherness, but for some families, it can be challenging. Your donation to this campaign allows us to spread holiday cheer by providing meals to families in need during the festive season. By contributing, you're making the holidays brighter for those less fortunate. Your $30 donation can help us create memorable holiday moments for families in our community. Join us in sharing the spirit of the season through the gift of food and kindness.",
+    "price": 30
+  },
+  {
+    "id": "5e5654b0",
+    "category": "Health",
+    "title": "Medical Research Advancements",
+    "image": "https://imageupload.io/ib/hRbZjcq8Nk8yzkq_1695631309.png",
+    "category_bg_color": "#0052FF33",
+    "card_bg_color": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "Medical research has the power to transform healthcare and save lives. Your support for this campaign helps fund groundbreaking medical research projects aimed at improving healthcare outcomes. By contributing, you're investing in the future of medicine and better health for all. Your $60 donation can have a profound impact on the progress of medical research. Join us in advancing healthcare and making strides toward a healthier world.",
+    "price": 60
+  },
+  {
+    "id": "cf9a02b8",
+    "category": "Education",
+    "title": "STEM Education for All",
+    "image": "https://imageupload.io/ib/SZaGY03uWPL88Ni_1695631152.png",
+    "category_bg_color": "#FF444A33",
+    "card_bg_color": "#FF444A26",
+    "text_color": "#FF444A",
+    "description": "STEM (Science, Technology, Engineering, and Mathematics) education is crucial for preparing students for the challenges of the future. By supporting this campaign, you're promoting STEM education for all students, regardless of their background or circumstances. Your contribution helps level the playing field in education. Your $45 donation empowers students with valuable STEM skills that open doors to diverse career opportunities. Join us in fostering a passion for science and innovation in the next generation.",
+    "price": 45
+  },
+  {
+    "id": "b2c60750",
+    "category": "Clothing",
+    "title": "Blankets for the Homeless",
+    "image": "https://imageupload.io/ib/NCc9RndQk3Ll6p0_1695631464.png",
+    "category_bg_color": "#79C23F33",
+    "card_bg_color": "#79C23F26",
+    "text_color": "#79C23F",
+    "description": "Homelessness is a pressing issue, especially during the cold nights of winter. Your donation to this campaign enables us to provide warm blankets to homeless individuals, helping them stay comfortable and safe. By contributing, you're making a difference in the lives of those experiencing homelessness. Your $15 donation can provide much-needed warmth and security to someone in need. Join us in offering support and compassion to our homeless neighbors.",
+    "price": 15
+  }
+]
