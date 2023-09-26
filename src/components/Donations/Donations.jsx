@@ -18,7 +18,7 @@ const Donations = () => {
     }, [])
     return (
         <div>
-            <div className="grid grid-cols-2 gap-6 my-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
                 {
                     (donation.length === 0) ? 
                     <div>
