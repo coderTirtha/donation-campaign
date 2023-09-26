@@ -20,6 +20,10 @@ const Donations = () => {
         <div>
             <div className="grid grid-cols-2 gap-6 my-8">
                 {
+                    (donation.length === 0) ? 
+                    <div>
+                        <p className="text-lg text-gray-400">No donations here yet!</p>
+                    </div> :
                     donation.slice(0, donationLength).map(donation => <Donation key={donation.id} donation={donation}></Donation>)
                 }
             </div>
